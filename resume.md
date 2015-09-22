@@ -63,6 +63,6 @@ To gain a position fully utilizing and continously expanding my knowledge of Sof
 - Solid understanding of TCP/IP, VoIP, t.38(FoIP), SIP, t.30
 - Solid understanding of CI workflows using Travis-CI.
 - Experience with developing Chrome extensions
-- Developing and implementing customer and peer training meterials
+- Developing and implementing customer and peer training materials
 
 **References available upon request.**
