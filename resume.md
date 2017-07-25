@@ -85,7 +85,7 @@ To gain a position fully utilizing and continously expanding my knowledge of Sof
 ### Skills:
 
 - **Languages:** Node.js, C\#, Go, DART, JS, C++, PHP, Perl, ASP, VB, and Python.
-- **API’s:** Mocha.js, Sinon.js, Selenium, Google JavaScript(PubSub API, Gmail API, OAuth2), Chrome API
+- **API’s / Frameworks:** Mocha.js, Sinon.js, HAPI, Swagger, React, JOI, Selenium, Google JavaScript(PubSub API, Gmail API, OAuth2), Chrome API
 - **Databases:** Datomic, MySQL, MSSQL
 - **Virtualization platforms:** ESXi, HyperV, Vagrant, VirtualBox
 - Able to quickly pivot, adapting to new software and technologies
