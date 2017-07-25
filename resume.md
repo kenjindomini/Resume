@@ -35,6 +35,7 @@ To gain a position fully utilizing and continously expanding my knowledge of Sof
 - Small team-based development using git via github
 - Git branch based development
 - Responsible for code reviews of team members pull requests
+- Coordinate with product team in NY
  
 <table width="600px">
 <tr>
