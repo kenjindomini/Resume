@@ -6,11 +6,40 @@
 To gain a position fully utilizing and continously expanding my knowledge of Software Engineering and Web Development.
 
 ### Experience:
+
+<table width="600px">
+<tr>
+<td width="200px"><b>Self-Employed</b></td>
+<td width="200px">May 2016 – Present</td>
+<td width="200px">Dracut, MA</td>
+</tr>
+</table>
+
+**Software Engineer - API Design and Development**
+- Designed a RESTful Web-API using Swagger 2.0
+- Develop API in Node.js
+- Extend MySQL database to support API_Key based authorization
+
+<table width="600px">
+<tr>
+<td width="200px"><b>Yieldbot</b></td>
+<td width="200px">Dec 2015 – Aug 2017</td>
+<td width="200px">Maynard, MA</td>
+</tr>
+</table>
+
+**Software Engineer / Back-End Web developer**
+- Designed and developed Web-based APIs using node.js
+- Abstracted away database queries and transactions, lowering difficulty and increasing productivity for front-end developers
+- Maintained a high standard of Engineering hygine, i.e. good unit and intergration test coverage and linting
+- Small team-based development using git via github
+- Git branch based development
+- Responsible for code reviews of team members pull requests
  
 <table width="600px">
 <tr>
 <td width="200px"><b>Biscom</b></td>
-<td width="200px">Jan 2012 – Present</td>
+<td width="200px">Jan 2012 – Dec 2015</td>
 <td width="200px">Chelmsford, MA</td>
 </tr>
 </table>
@@ -55,13 +84,13 @@ To gain a position fully utilizing and continously expanding my knowledge of Sof
 
 ### Skills:
 
-- **Languages:** C\#, Go, DART, JS, C++, PHP, Perl, ASP, VB, and Python.
-- **API’s:** Selenium, Google JavaScript(PubSub API, Gmail API, OAuth2), Chrome API
-- **Databases:** MySQL, MSSQL
+- **Languages:** Node.js, C\#, Go, DART, JS, C++, PHP, Perl, ASP, VB, and Python.
+- **API’s:** Mocha.js, Sinon.js, Selenium, Google JavaScript(PubSub API, Gmail API, OAuth2), Chrome API
+- **Databases:** Datomic, MySQL, MSSQL
 - **Virtualization platforms:** ESXi, HyperV, Vagrant, VirtualBox
 - Able to quickly pivot, adapting to new software and technologies
 - Solid understanding of TCP/IP, VoIP, t.38(FoIP), SIP, t.30
-- Solid understanding of CI workflows using Travis-CI.
+- Solid understanding of CI workflows using Jenkins and Travis-CI.
 - Experience with developing Chrome extensions
 - Developing and implementing customer and peer training materials
 
