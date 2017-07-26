@@ -34,7 +34,7 @@ To gain a position fully utilizing and continously expanding my knowledge of Sof
 - Maintained a high standard of Engineering hygine, i.e. good unit and intergration test coverage and linting
 - Small team-based development using git via github
 - Git branch based development
-- Responsible for code reviews of team members pull requests
+- Responsible for code reviews of team member's pull requests
 - Coordinate with product team in NY
  
 <table width="600px">
