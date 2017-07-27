@@ -10,7 +10,7 @@ To gain a position fully utilizing and continously expanding my knowledge of Sof
 <table width="600px">
 <tr>
 <td width="200px"><b>Self-Employed</b></td>
-<td width="200px">May 2016 – Present</td>
+<td width="200px">May 2017 – Present</td>
 <td width="200px">Dracut, MA</td>
 </tr>
 </table>
