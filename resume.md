@@ -78,11 +78,7 @@ To gain a position fully utilizing and continously expanding my knowledge of Sof
 - **Languages:** Node.js, C\#, Go, DART, JS, C++, PHP, Perl, ASP, VB, and Python.
 - **API’s / Frameworks:** Mocha.js, Sinon.js, HAPI, Swagger, React, JOI, Selenium, Google JavaScript(PubSub API, Gmail API, OAuth2), Chrome API
 - **Databases:** Datomic, MySQL, MSSQL
-- **Virtualization platforms:** ESXi, HyperV, Vagrant, VirtualBox
 - Able to quickly pivot, adapting to new software and technologies
-- Solid understanding of TCP/IP, VoIP, t.38(FoIP), SIP, t.30
-- Solid understanding of CI workflows using Jenkins and Travis-CI.
 - Experience with developing Chrome extensions
-- Developing and implementing customer and peer training materials
 
 **References available upon request.**
