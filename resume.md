@@ -1,5 +1,5 @@
 ## Keith Olenchak 
-**Phone**:603.966.8316  **Email**: keith.olenchak@gmail.com  **Github**: [kenjindomini](https://github.com/kenjindomini/resume)
+**Phone**:603.966.8316  **Email**: keith.olenchak@gmail.com  **Github**: [kenjindomini](https://github.com/kenjindomini)
 
 ### Objective:
 
@@ -17,8 +17,10 @@ To gain a position fully utilizing and continously expanding my knowledge of Sof
 
 **Software Engineer - API Design and Development**
 - Designed a RESTful Web-API using Swagger 2.0
-- Develop API in Node.js
-- Extend MySQL database to support API_Key based authorization
+- Developed API in Node.js and Hapi
+    - Arcitected a JSON based DSL (domain specific language) to abstract away MySQL query where clauses this made the API more efficient when it came to ensuring the API_Key was authorized to query the data it was asking for, such as querying for "deleted" entries
+    - Arcitected an API_Key based authorization scheme
+- Extended MySQL database to support API_Key based authorization
 
 <table width="600px">
 <tr>
@@ -29,13 +31,14 @@ To gain a position fully utilizing and continously expanding my knowledge of Sof
 </table>
 
 **Software Engineer / Back-End Web developer**
-- Designed and developed Web-based APIs using node.js
+- Arcitected and developed Web-based APIs using node.js and Hapi
 - Abstracted away database queries and transactions, lowering difficulty and increasing productivity for front-end developers
 - Maintained a high standard of Engineering hygine, i.e. good unit and intergration test coverage and linting
-- Small team-based development using git via github
-- Git branch based development
-- Responsible for code reviews of team member's pull requests
-- Coordinate with product team in NY
+- Used git workflow via github to coordinate code changes between a small team of a engineers
+- Used git branches to segregate feature and bug fix development from the main two branches: master and dev
+    - Implemented git branch worklow and Jenkins workflow to have engineering team use a dev branch that could not be pushed to prd
+- Performed code reviews of team member's pull requests
+- Coordinated with product team in NY
  
 <table width="600px">
 <tr>
