@@ -73,19 +73,6 @@ To gain a position fully utilizing and continously expanding my knowledge of Sof
 - Conduct installation and initial configuration of the FAXCOM Suite of products, either remotely or on-site
 - Helped develop “train the trainer” courses and then provided the on-site training using these meterials
 
-<table width="600px">
-<tr>
-<td width="200px"><b>Inforonics</b></td>
-<td width="200px">Oct 2007 – Feb 2012</td>
-<td width="200px">Littleton, MA</td>
-</tr>
-</table>
-
-**Tier 1 & Tier 2 Technical Support**
-
-- Troubleshooting network and software issues
-- Documenting and reporting bugs to software/hardware manufacturers
-
 ### Skills:
 
 - **Languages:** Node.js, C\#, Go, DART, JS, C++, PHP, Perl, ASP, VB, and Python.
