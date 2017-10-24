@@ -3,7 +3,7 @@
 
 ### Objective:
 
-To gain a position fully utilizing and continously expanding my knowledge of Software Engineering and Web Development.
+To gain a position fully utilizing and contiunously expanding my knowledge of Software Engineering and Web Development.
 
 ### Experience:
 
