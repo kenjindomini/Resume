@@ -9,6 +9,19 @@ To gain a position fully utilizing and contiunously expanding my knowledge of So
 
 <table width="600px">
 <tr>
+<td width="200px"><b>ERT</b></td>
+<td width="200px">Sept 2017 – Present</td>
+<td width="200px">Boston, MA</td>
+</tr>
+</table>
+
+**Full Stack Web Developer**
+- Migrating reports from logi to standard libraries HighCharts, and Kendo Grids
+- Maintaining a C# MVC web app
+- Migrating the front-end to Angular 4
+
+<table width="600px">
+<tr>
 <td width="200px"><b>Self-Employed</b></td>
 <td width="200px">May 2017 – Present</td>
 <td width="200px">Dracut, MA</td>
