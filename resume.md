@@ -3,7 +3,7 @@
 
 ### Objective:
 
-To gain a position fully utilizing and contiunously expanding my knowledge of Software Engineering and Web Development.
+To gain a position fully utilizing and contiunously expanding my knowledge of API and Microservices design & development with project lead opportunities.
 
 ### Experience:
 
@@ -34,6 +34,7 @@ To gain a position fully utilizing and contiunously expanding my knowledge of So
     - Architected a JSON based DSL (domain specific language) to abstract away MySQL query where clauses this made the API more efficient when it came to ensuring the API_Key was authorized to query the data it was asking for, such as querying for "deleted" entries
     - Architected an API_Key based authorization scheme
 - Extended MySQL database to support API_Key based authorization
+- Deploy services to AWS
 
 <table width="600px">
 <tr>
@@ -47,7 +48,7 @@ To gain a position fully utilizing and contiunously expanding my knowledge of So
 - Architected and developed Web-based APIs using node.js and Hapi
 - Abstracted away database queries and transactions, lowering difficulty and increasing productivity for front-end developers
 - Maintained a high standard of Engineering hygiene, i.e. good unit and integration test coverage and linting
-- Used git workflow via github to coordinate code changes between a small team of a engineers
+- Used git workflow via github to coordinate code changes between a small team of engineers
 - Used git branches to segregate feature and bug fix development from the main two branches: master and dev
     - Implemented git branch worklow and Jenkins workflow to have engineering team use a dev branch that could not be pushed to prd
 - Performed code reviews of team member's pull requests
@@ -86,7 +87,7 @@ To gain a position fully utilizing and contiunously expanding my knowledge of So
 ### Skills:
 - **Languages:** Node.js, C\#, Go, DART, JS, C++, PHP, Perl, ASP, VB, and Python.
 - **API’s / Frameworks:** Mocha.js, Sinon.js, HAPI, Swagger, React, JOI, Selenium, Google JavaScript(PubSub API, Gmail API, OAuth2), Chrome API
-- **Databases:** Datomic, MySQL, MSSQL
+- **Databases:** Datomic, MySQL, MSSQL, Oracle SQL
 - Able to quickly pivot, adapting to new software and technologies
 
 **References available upon request.**
