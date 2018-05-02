@@ -48,6 +48,7 @@ To gain a position fully utilizing and contiunously expanding my knowledge of AP
 - Architected and developed Web-based APIs using node.js and Hapi
 - Abstracted away database queries and transactions, lowering difficulty and increasing productivity for front-end developers
 - Maintained a high standard of Engineering hygiene, i.e. good unit and integration test coverage and linting
+- Engineered and maintained a small wrapper library for Google's DFP SOAP API
 - Used git workflow via github to coordinate code changes between a small team of engineers
 - Used git branches to segregate feature and bug fix development from the main two branches: master and dev
     - Implemented git branch worklow and Jenkins workflow to have engineering team use a dev branch that could not be pushed to prd
